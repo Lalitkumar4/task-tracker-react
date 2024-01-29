@@ -1,8 +1,6 @@
 # Task Tracker App
 This Task Tracker is an application that enables users to conduct CRUD (Create, Read, Update, and Delete) activities on tasks. The program is supported by a JSON-server, which provides a RESTful API for task management.
 
-Click here to view the [live Demo](https://task-tracker-42.netlify.app/)
-
 ## Features
 - Add new tasks
 - Add day and time
