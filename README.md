@@ -11,7 +11,7 @@ This Task Tracker app allows users to perform CRUD (Create, Read, Update, and De
 ## Features
 
 - Add new tasks
-- Add day and time
+- Add the day and time
 - Update tasks
 - Delete tasks
 - Set Reminder
