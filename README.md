@@ -1,5 +1,5 @@
 # Task Tracker App
-This Task Tracker is an application that enables users to conduct CRUD (Create, Read, Update, and Delete) activities on tasks. The program is supported by a JSON-server, which provides a RESTful API for task management.
+This Task Tracker app allows users to perform CRUD (Create, Read, Update, and Delete) operations on tasks. The app is supported by a JSON server that offers a RESTful API for task management.
 
 ## Features
 - Add new tasks
