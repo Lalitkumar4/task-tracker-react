@@ -1,7 +1,14 @@
 # Task Tracker App
 This Task Tracker app allows users to perform CRUD (Create, Read, Update, and Delete) operations on tasks. The app is supported by a JSON server that offers a RESTful API for task management.
 
-## Features ⚙️
+## 📦 Technologies
+- `React.js`
+- `json server`
+- `React router`
+- `React icons`
+- `Prop types`
+
+## 🚀 Features 
 
 - Add new tasks
 - Add the day and time
@@ -27,7 +34,7 @@ npm run server
 npm run build
 ```
 
-## Screenshots 📷
+## 📷 Screenshots 
 
 <div>
   <img src="https://github.com/Lalitkumar4/task-tracker-react/assets/64465383/0d210000-e468-409d-a458-5bd1531f174d" width="400" height="400"/>
@@ -35,7 +42,7 @@ npm run build
 </div>
 
 <details open>
-<summary><h3>Preview Video 🎥</h3></summary>
+<summary><h2>🎥 Preview Video</h2></summary>
 <video src="https://github.com/Lalitkumar4/task-tracker-react/assets/64465383/5dd52ab0-4d9a-48e9-9c8a-7a04d08392bb" controls="controls" >
 </video>
 </details>
